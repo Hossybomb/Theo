@@ -1,1 +1,4 @@
 
+<Version: .98>
+/img/test.hossybomb.png https://hossybomb.imgur.com/all/?third_party=1
+<End of Version>
